@@ -24,3 +24,4 @@ As part of an ongoing journey in AI and Data Science, this project demonstrates 
 ## 🔮 Future Scope
 
 The insights and cleaned data from this Power BI model can serve as a foundation for future machine learning applications, such as predicting match outcomes, forecasting first-innings scores, or clustering player performance types.
+
